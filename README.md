@@ -184,4 +184,9 @@ button{
 {
     background-color: black;
 }
+
+###OUTPUT:
+![Screenshot (25)](https://github.com/Arini22009085/codsoft/assets/119643315/737ccfce-c990-4729-abc7-3d6b20259305)
+
+![Screenshot (26)](https://github.com/Arini22009085/codsoft/assets/119643315/2d8b1583-b00c-48af-a1e8-201af214eb8f)
 ```
